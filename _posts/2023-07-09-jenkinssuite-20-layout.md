@@ -1,5 +1,5 @@
 ---
-title: JenkinsSuite Settings
+title: JenkinsSuite Layout
 toc: true
 toc_sticky: true
 breadcrumb: true

@@ -36,7 +36,8 @@ VSCode 에서 편리하게 Jenkins 의 기능을 사용 (빌드)하고자 하는
 
 ## 목차
 * [Jenkins 서버의 Token 생성](../jenkins-10-token/)
-- Jenkins Suite 설정 / 접속(../jenkinssuite-20-settings/)
+* [화면 구성](../jenkinssuite-20-layout/)
+- [설정 / 접속](../jenkinssuite-30-connection)
 * View 전환 및 생성
 * Job 생성 및 수정, 실행 (빌드)
 * Job 예약
