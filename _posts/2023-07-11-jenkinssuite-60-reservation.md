@@ -1,5 +1,5 @@
 ---
-title: Jenkins Suite Connection
+title: Jenkins Suite Reservation
 toc: true
 toc_sticky: true
 breadcrumb: true
@@ -11,4 +11,4 @@ tags:
   - vscode
 ---
 
-## Connection
+## Reservation
